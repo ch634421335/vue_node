@@ -1,6 +1,6 @@
 # vue_node
 vue项目的后端，基于node和mongodb
-#此项目为https://github.com/ch634421335/vue_app项目的后端及管理系统，基于node和mongodb。
+### 此项目为https://github.com/ch634421335/vue_app  项目的后端及管理系统，基于node和mongodb。
 # 安装环境
 安装node[10-14.5均可]
 ```
