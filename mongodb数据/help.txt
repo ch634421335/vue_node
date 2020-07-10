@@ -1,0 +1,6 @@
+//出库:导出本地的数据 -> json
+mongoexport -h 127.0.0.1 -d 库名 -c 集合名 -o 输出路径/xx.json
+
+
+//入库:  json -> 导入数据库
+mongoimport -d 库 -c 集合 -file 服务器json路径/xx.json
